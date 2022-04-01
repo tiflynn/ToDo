@@ -4,3 +4,5 @@ backend/todo/__init__.py
 backend/backend/__init__.py
 backend/todo/__init__.py
 backend/todo/migrations/__init__.py
+__pycache__/
+.idea
