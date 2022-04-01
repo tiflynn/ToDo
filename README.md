@@ -1,19 +1,23 @@
 # ToDo
-To Do App using Django and react
+<p>To Do App using Django and react</p>
+
 https://www.digitalocean.com/community/tutorials/build-a-to-do-application-using-django-and-react
 
 # Dependencies
+conda install <br />
+python=3.9 <br />
+nodejs=16.13.1 <br />
+django=3.2.5 <br />
 
-python=3.9
-nodejs=16.13.1
-django=3.2.5
+pip install <br />
+postgres <br />
+djangorestframework-3.13.1 <br />
 
-pip install postgres
 
 # Set up
 
 set up env
-create db
-create backend pro
-create frontend pro
-1. run ```npx create-react-app todo```
+1. create db
+2. create backend pro
+
+PICKUP - Step 3 — Setting Up the Frontend
